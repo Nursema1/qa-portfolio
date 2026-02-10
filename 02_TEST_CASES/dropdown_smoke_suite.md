@@ -34,3 +34,13 @@ Steps:
 Expected Result:
 System should update selection correctly without freeze
 
+## Definition of Done
+
+- 3 test cases written
+- Includes positive, negative, edge
+- Steps reproducible
+- Expected results defined
+- Committed to repository
+
+
+
