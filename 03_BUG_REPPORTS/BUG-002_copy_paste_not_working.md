@@ -29,4 +29,14 @@ Minor
 Priority:
 P2
 
+Evidence:
+- (add later)
+
+Status:
+New
+
+Notes:
+- Manual typing works; paste is blocked.
+
+
 --- END BUG REPORT ---
