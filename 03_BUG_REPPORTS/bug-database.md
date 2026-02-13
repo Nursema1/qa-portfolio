@@ -1,3 +1,4 @@
 | Bug ID | Title | Environment | Steps to Reproduce | Expected Result | Actual Result | Severity | Priority | Evidence | Status | Notes |
 |--------|-------|-------------|--------------------|-----------------|---------------|----------|----------|----------|--------|-------|
 | BUG-001 | Dropdown resets after refresh | Windows 10 / Chrome | Select option → Refresh page | Selected option should persist | Selection resets to default | Minor | P3 | Screenshot link | Open | State not saved after refresh |
+| BUG-002 | [Inputs] Copy-paste value not inserted | Windows 10 / Chrome (Latest) | Copy numeric value → click input → Ctrl+V | Copied numeric value should be inserted into input field | Pasted value is not inserted | Minor | P2 | (add later) | New | Usability/accessibility risk; manual typing works |
